@@ -20,12 +20,11 @@
 
 <br>
 <div>
-   <a href = "mailto:gabriel.holanda4@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-![Snake animation] (https://github.com/HoHoPed/HoHoPed/blob/output/github-contribution-grid-snake.svg)
+   <a href = "mailto:gabriel.holanda4@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+    
+    ![Snake animation](https://github.com/HoHoPed/HoHoPed/blob/main/.github/workflows/snake.yml)
  
-
-</div
+ </div
 
 <!--
 **HoHoPed/HoHoPed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

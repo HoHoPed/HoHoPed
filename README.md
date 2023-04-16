@@ -1,6 +1,6 @@
 ### Olá 👋
-- Tenho 18 anos
-- Atualmente estudo Front-End
+- Tenho 19 anos
+- Atualmente analise de sistemas
 
  <div>
   <a href="https://github.com/HoHoPeD">

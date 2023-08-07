@@ -1,6 +1,6 @@
 ### Olá 👋
-- Tenho 19 anos
-- Atualmente analise de sistemas
+- Tenho 20 anos
+- Atualmente curso analise de sistemas
 
  <div>
   <a href="https://github.com/HoHoPeD">
